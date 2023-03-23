@@ -1,0 +1,5 @@
+rootProject.name = 'multigradle'
+include 'application'
+include 'library'
+include 'application2'
+
